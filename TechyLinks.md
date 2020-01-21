@@ -6,6 +6,9 @@ https://drive.google.com/open?id=1bnU4BD1hCXEfZjKn81vbOxsEL9Ycbid9
 Link to Juice Shop Solutions: 
 https://docs.google.com/document/d/11vz9NSrOLJ7uhiWPUeS9O9P88m6p_LtA8s3rwrepaq4/edit?usp=sharing 
 
+Pwning the OWASP Juice Shop (by the Juice Shop Author)
+https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/
+
 Alternative shorter link: 
 https://tinyurl.com/OWASPSolutions
 
